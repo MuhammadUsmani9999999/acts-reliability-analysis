@@ -25,8 +25,7 @@ This repository contains an academic analysis focusing on the reliability of a c
 *   Technical Reporting
 
 ## Repository Contents:
-*   `[Report_Name_Reliability_ACTS].pdf`: The full analysis report detailing calculations, discussions, and conclusions.
-*   *(Optional: If you have spreadsheets for calculations, you can add an `Calculations/` folder)*
+*   `[Reliability_ACTS].pdf`: The full analysis report detailing calculations, discussions, and conclusions.
 
 ---
 This project provided insights into fundamental reliability engineering principles and their application in assessing and improving the dependability of complex aerospace/defence systems.
